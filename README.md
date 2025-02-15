@@ -6,7 +6,7 @@ This is the frontend for the Delivery App, built with **React.js** and **Tailwin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/delivery-app-frontend.git
+   git clone https://github.com/abhishekbhardwaj29/delivery-app-frontend.git
    cd delivery-app-frontend
 2.Install dependencies:
     npm install
